@@ -13,6 +13,7 @@
       "title": "Bolli YouTube",
       "iconUri": "https://aktiwers.github.io/bolli-homebrew/icons/org.bolli.youtube.png",
       "shortDescription": "A YouTube app for LG webOS TVs. It looks and works like YouTube's own TV app, but it's fast on old TVs, has ad block and skips sponsor segments.",
+      "fullDescriptionUrl": "https://aktiwers.github.io/bolli-homebrew/descriptions/org.bolli.youtube.html",
       "pool": "main",
       "manifest": {
         "id": "org.bolli.youtube",
@@ -35,6 +36,7 @@
       "title": "Bolli DR",
       "iconUri": "https://aktiwers.github.io/bolli-homebrew/icons/org.bolli.dr.png",
       "shortDescription": "En hurtig app til DR's live-kanaler og programmer: DR1, DR2, TVA Live, DR Ramasjang og DRTV Ekstra, Forside, Kategorier, Børn og Søg.",
+      "fullDescriptionUrl": "https://aktiwers.github.io/bolli-homebrew/descriptions/org.bolli.dr.html",
       "pool": "main",
       "manifest": {
         "id": "org.bolli.dr",
