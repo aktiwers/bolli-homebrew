@@ -41,16 +41,16 @@
       "manifest": {
         "id": "org.bolli.dr",
         "title": "Bolli DR",
-        "version": "0.9.80",
+        "version": "0.9.81",
         "type": "web",
         "appDescription": "En hurtig app til DR's live-kanaler og programmer: DR1, DR2, TVA Live, DR Ramasjang og DRTV Ekstra, Forside, Kategorier, Børn og Søg.",
         "iconUri": "https://aktiwers.github.io/bolli-homebrew/icons/org.bolli.dr.png",
         "sourceUrl": "https://github.com/aktiwers/bolli-dr",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/aktiwers/bolli-dr/releases/download/v0.9.80/bolli-dr.ipk",
-        "ipkSize": 261446,
+        "ipkUrl": "https://github.com/aktiwers/bolli-dr/releases/download/v0.9.81/bolli-dr.ipk",
+        "ipkSize": 259872,
         "ipkHash": {
-          "sha256": "8e5bd2322fa4a86d1fcaf14cf88f80c00df054640fdc738eb24de38e19cf23bf"
+          "sha256": "61befe96c16e8b52702ec61d042a9fb7aaae3dd3252242634c9f1abff5ead826"
         }
       }
     }
