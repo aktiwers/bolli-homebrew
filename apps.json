@@ -1,0 +1,56 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 2,
+    "maxPage": 1,
+    "itemsTotal": 2,
+    "prevUrl": null,
+    "nextUrl": null
+  },
+  "packages": [
+    {
+      "id": "org.bolli.youtube",
+      "title": "Bolli YouTube",
+      "iconUri": "https://aktiwers.github.io/bolli-homebrew/icons/org.bolli.youtube.png",
+      "shortDescription": "A YouTube app for LG webOS TVs. It looks and works like YouTube's own TV app, but it's fast on old TVs, has ad block and skips sponsor segments.",
+      "pool": "main",
+      "manifest": {
+        "id": "org.bolli.youtube",
+        "title": "Bolli YouTube",
+        "version": "0.1.197",
+        "type": "web",
+        "appDescription": "A YouTube app for LG webOS TVs. It looks and works like YouTube's own TV app, but it's fast on old TVs, has ad block and skips sponsor segments.",
+        "iconUri": "https://aktiwers.github.io/bolli-homebrew/icons/org.bolli.youtube.png",
+        "sourceUrl": "https://github.com/aktiwers/bolli-youtube",
+        "rootRequired": false,
+        "ipkUrl": "https://github.com/aktiwers/bolli-youtube/releases/download/v0.1.197/bolli-youtube.ipk",
+        "ipkSize": 511054,
+        "ipkHash": {
+          "sha256": "36eea1e54985a2b95a13b74883fb2f72473976b9000081ebb91855bfc207a298"
+        }
+      }
+    },
+    {
+      "id": "org.bolli.dr",
+      "title": "Bolli DR",
+      "iconUri": "https://aktiwers.github.io/bolli-homebrew/icons/org.bolli.dr.png",
+      "shortDescription": "En hurtig app til DR's live-kanaler og programmer: DR1, DR2, TVA Live, DR Ramasjang og DRTV Ekstra, Forside, Kategorier, Børn og Søg.",
+      "pool": "main",
+      "manifest": {
+        "id": "org.bolli.dr",
+        "title": "Bolli DR",
+        "version": "0.9.80",
+        "type": "web",
+        "appDescription": "En hurtig app til DR's live-kanaler og programmer: DR1, DR2, TVA Live, DR Ramasjang og DRTV Ekstra, Forside, Kategorier, Børn og Søg.",
+        "iconUri": "https://aktiwers.github.io/bolli-homebrew/icons/org.bolli.dr.png",
+        "sourceUrl": "https://github.com/aktiwers/bolli-dr",
+        "rootRequired": false,
+        "ipkUrl": "https://github.com/aktiwers/bolli-dr/releases/download/v0.9.80/bolli-dr.ipk",
+        "ipkSize": 261446,
+        "ipkHash": {
+          "sha256": "8e5bd2322fa4a86d1fcaf14cf88f80c00df054640fdc738eb24de38e19cf23bf"
+        }
+      }
+    }
+  ]
+}
