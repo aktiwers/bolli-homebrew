@@ -18,16 +18,16 @@
       "manifest": {
         "id": "org.bolli.youtube",
         "title": "Bolli YouTube",
-        "version": "0.1.223",
+        "version": "0.1.224",
         "type": "web",
         "appDescription": "A YouTube app for LG webOS TVs. It looks and works like YouTube's own TV app, but it's fast on old TVs, has ad block and skips sponsor segments.",
         "iconUri": "https://aktiwers.github.io/bolli-homebrew/icons/org.bolli.youtube.png",
         "sourceUrl": "https://github.com/aktiwers/bolli-youtube",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/aktiwers/bolli-youtube/releases/download/v0.1.223/bolli-youtube.ipk",
-        "ipkSize": 558442,
+        "ipkUrl": "https://github.com/aktiwers/bolli-youtube/releases/download/v0.1.224/bolli-youtube.ipk",
+        "ipkSize": 564606,
         "ipkHash": {
-          "sha256": "a92ccce80d4395bfe144a56815c878a89ab7080f6b79818c0e4c058782251590"
+          "sha256": "7ba007637e7967731f1a573e4d55c0ed0ecb71bec3d1ea23c77bba506629e7de"
         }
       }
     },
