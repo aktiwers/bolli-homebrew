@@ -64,16 +64,16 @@
       "manifest": {
         "id": "org.bolli.twitch",
         "title": "Bolli Twitch",
-        "version": "0.1.7",
+        "version": "0.1.8",
         "type": "web",
         "appDescription": "A Twitch app for LG webOS TVs. It looks and works like Twitch's own TV app, but it's fast on old TVs and has no ads.",
         "iconUri": "https://aktiwers.github.io/bolli-homebrew/icons/org.bolli.twitch.png",
         "sourceUrl": "https://github.com/aktiwers/bolli-twitch",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/aktiwers/bolli-twitch/releases/download/v0.1.7/bolli-twitch.ipk",
-        "ipkSize": 533474,
+        "ipkUrl": "https://github.com/aktiwers/bolli-twitch/releases/download/v0.1.8/bolli-twitch.ipk",
+        "ipkSize": 545664,
         "ipkHash": {
-          "sha256": "d7905334fe3bf1537434416c9ad58e0c3022e43fee2bf34527ef8a825b5b14a8"
+          "sha256": "ebeff6c575222e4bbf788d372aa01fac2507e2154670f475de0b132b340d1216"
         }
       }
     }
